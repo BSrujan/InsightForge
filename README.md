@@ -1,4 +1,4 @@
-# InsightForge Analytics 📊
+# InsightForge 📊
 
 InsightForge Analytics is an interactive data visualization dashboard built using Python, Gradio, MySQL, Pandas, and Matplotlib.
 
